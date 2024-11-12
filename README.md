@@ -1,0 +1,2 @@
+- `nix flake init --template github:cachix/devenv`
+- update `flake.nix` (UPDATE_HERE)
