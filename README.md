@@ -1,4 +1,4 @@
 - `nix flake init --template github:cachix/devenv`
 - `direnv allow`
-- `cp <this_project_path>/* <unreal_project_path>`
+- `cp -rf <this_project_path>/. <unreal_project_path>` (⚠️ WILL OVERRIDE FILES WITH THE SAME NAME ⚠️)
 - update `flake.nix` (UPDATE_HERE)
