@@ -81,7 +81,6 @@ DerivedDataCache/*
 # Devenv and Direnv
 .devenv/
 .direnv/
-.envrc
 
 # LSP
 .cache/
