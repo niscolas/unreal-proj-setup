@@ -76,11 +76,12 @@ DerivedDataCache/*
 # Editor Specific Files
 .idea/
 .vscode/
-MonoGrinding.code-workspace
+*.code-workspace
 
 # Devenv and Direnv
 .devenv/
 .direnv/
+.envrc
 
 # LSP
 .cache/
