@@ -1,2 +1,4 @@
 - `nix flake init --template github:cachix/devenv`
+- `direnv allow`
+- `cp <this_project_path>/* <unreal_project_path>`
 - update `flake.nix` (UPDATE_HERE)
